@@ -61,8 +61,8 @@ article {
 //	position: relative;
 	background-color: white;
 	min-height: 300px;
-	//width: 80%;
-	max-width:  650px;
+	width: 90%;
+	// max-width:  650px;
 	padding-top: 1em;
 //	padding-left: 2.5em;
     margin: 0 auto;
