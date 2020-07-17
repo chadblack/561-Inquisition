@@ -53,6 +53,8 @@ three represented!?):
 
 ## Week 4 -- Locality (Sep. 15) 
 
+* 
+
 ## Week 5 -- Moving Up and Out (Sep. 22)
 
 ## Week 6 -- Witchcraft? (Sep. 29) 
@@ -66,6 +68,9 @@ three represented!?):
 ## Week 10 -- Extirpation vs Inquisition (Oct. 27)
 
 ## Week 11 -- Gender and Sexuality II (Nov. 3)  
+
+* Zeb Tortorici, *Sins Against Nature: Sex & Archives in Colonial New Spain*
+  (Duke: 2018)
 
 ## Week 12 -- Censorship (Nov. 10)  
 
