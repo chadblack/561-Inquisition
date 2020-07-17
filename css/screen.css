@@ -128,7 +128,7 @@ article.schedule div.maruku_toc li {
      text-align: center;
 }
 
-ol {
+#markdown-toc {
     columns: 2;
     -webkit-columns: 2;
     -moz-columns: 2;
