@@ -6,14 +6,16 @@ title: calendar
 # calendar {#history}
 {: .no_toc}
 
-<div style="float:left; width:25%; margin:3px">
+<div style="float:left; margin:3px;">
 1. week
 {:toc}
 </div>
 
-<div style="float:right; width:75%">
+<div style="float:right;">
 
-## Week 1 -- Introduction (Aug. 25)
+## Week 1  
+
+**Introduction (Aug. 25)**
 
 To get us thinking critically about the concept of History before turning our
 attention to the Spanish Inquisition, we will spend some time reading about
