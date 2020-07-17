@@ -9,7 +9,7 @@ title: calendar
 1. week
 {:toc}
 
-## Week 1 -- Introduction (Aug. 25)
+## Introduction (Aug. 25)
 
 To get us thinking critically about the concept of History before turning our
 attention to the Spanish Inquisition, we will spend some time reading about
@@ -36,7 +36,7 @@ question: *What is the status of the past?*.
   of interfaith relations in Christian Spain,' *Journal of Medieval Iberian
   Studies* 1:1 (2009), pp. 19-35.
 
-## Week 2 -- The Broad Strokes (Sep. 1)
+## The Broad Strokes (Sep. 1)
 
 This week, each of you will pick one of three recent general overviews of the
 Spanish Inquisition, and read them with an eye for the fundamental historical
@@ -50,81 +50,81 @@ three represented!?):
 * Joseph Perez, *The Spanish Inquisition* (Yale, 2005).
 * Helen Rawlings, *The Spanish Inquisition* (Blackwell, 2006).
 
-## Week 3 -- Conversos and the Jewish Heresy (Sep. 8) 
+## Conversos and the Jewish Heresy (Sep. 8) 
 
 Read:
 
 *
 
 
-## Week 4 -- Locality (Sep. 15) 
+## Locality (Sep. 15) 
 
 Read:
 
 * 
 
-## Week 5 -- Moving Up and Out (Sep. 22)
-
-Read:
-
-* 
-
-
-## Week 6 -- Witchcraft? (Sep. 29) 
+## Moving Up and Out (Sep. 22)
 
 Read:
 
 * 
 
 
-## Week 7 -- Gender and Sexuality I (Oct. 6) 
+## Witchcraft? (Sep. 29) 
 
 Read:
 
 * 
 
 
-## Week 8 -- Spanish Case Paper (Oct. 13) 
+## Gender and Sexuality I (Oct. 6) 
 
 Read:
 
 * 
 
 
-## Week 9 -- Colonial Contexts (Oct. 20)  
+## Spanish Case Paper (Oct. 13) 
 
 Read:
 
 * 
 
 
-## Week 10 -- Extirpation vs Inquisition (Oct. 27)
+## Colonial Contexts (Oct. 20)  
 
 Read:
 
 * 
 
 
-## Week 11 -- Gender and Sexuality II (Nov. 3)  
+## Extirpation vs Inquisition (Oct. 27)
+
+Read:
+
+* 
+
+
+## Gender and Sexuality II (Nov. 3)  
 
 * Zeb Tortorici, *Sins Against Nature: Sex & Archives in Colonial New Spain*
   (Duke: 2018)
 
-## Week 12 -- Censorship (Nov. 10)  
+## Censorship (Nov. 10)  
 
 Read:
 
 * 
 
 
-## Week 13 -- A Modern Institution?  (Nov. 17) 
+## A Modern Institution?  (Nov. 17) 
 
 Read:
 
 * 
 
 
-## Week 14 -- Mexican Case Paper (Nov. 24)
+## Mexican Case Paper (Nov. 24)
 
 Read:
 
