@@ -58,7 +58,7 @@ article h1{
 }
 	
 article {
-//	position: relative;
+	position: relative;
 	background-color: white;
 	min-height: 300px;
 	width: 90%;
@@ -129,6 +129,7 @@ article.schedule div.maruku_toc li {
 }
 
 #markdown-toc {
+    text-align:center;
     columns: 2;
     -webkit-columns: 2;
     -moz-columns: 2;
