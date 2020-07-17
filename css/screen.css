@@ -7,7 +7,7 @@ footer, aside, nav, article {
 }  
 
 #wrapper {
-	width: 80%;
+	width: auto;
 	background-color: white;
 }
 
@@ -22,7 +22,8 @@ header {
 body {
 	background-color: white;
 	margin: 0 auto;  
-   	width: 940px; 
+   	width: auto; 
+    max-width: 940px;
 	font-size: 130%; 
 }
 
