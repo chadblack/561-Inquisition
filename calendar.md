@@ -6,12 +6,8 @@ title: calendar
 # calendar {#history}
 {: .no_toc}
 
-<span style="float:left; width:20%; padding-top:1em;">
 1. week
-{:toc}
-</span>
 
-<div style="float:right; width:70%;">
 ## Week 1  
 
 **Introduction (Aug. 25)**
@@ -137,7 +133,6 @@ Read:
 
 * 
 
-</div>
 
 
 
