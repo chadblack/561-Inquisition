@@ -41,7 +41,9 @@ question: *What is the status of the past?*.
   of interfaith relations in Christian Spain,' *Journal of Medieval Iberian
   Studies* 1:1 (2009), pp. 19-35.
 
-## Week 2 -- The Broad Strokes (Sep. 1)
+## Week 2 
+
+**The Broad Strokes (Sep. 1)**
 
 This week, each of you will pick one of three recent general overviews of the
 Spanish Inquisition, and read them with an eye for the fundamental historical
