@@ -4,8 +4,9 @@ title: calendar
 ---
 
 # calendar {#history}
+{: .no_toc}
 
-<div style="float:left; width:25%">
+<div style="float:left; width:25%; padding:5px">
 1. week
 {:toc}
 </div>
