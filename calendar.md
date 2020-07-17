@@ -7,6 +7,7 @@ title: calendar
 {: .no_toc}
 
 1. week
+{:toc}
 
 ## Week 1  
 
