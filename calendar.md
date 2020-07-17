@@ -6,12 +6,12 @@ title: calendar
 # calendar {#history}
 {: .no_toc}
 
-<div style="float:left; margin:3px;">
+<div style="float:left; width:25%; padding:5px;">
 1. week
 {:toc}
 </div>
 
-<div style="float:right;">
+<div style="float:right; width:75%;">
 
 ## Week 1  
 
