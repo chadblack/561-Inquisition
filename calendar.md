@@ -48,24 +48,58 @@ three represented!?):
 
 ## Week 3 -- Conversos and the Jewish Heresy (Sep. 8) 
 
+Read:
 
+*
 
 
 ## Week 4 -- Locality (Sep. 15) 
+
+Read:
 
 * 
 
 ## Week 5 -- Moving Up and Out (Sep. 22)
 
+Read:
+
+* 
+
+
 ## Week 6 -- Witchcraft? (Sep. 29) 
+
+Read:
+
+* 
+
 
 ## Week 7 -- Gender and Sexuality I (Oct. 6) 
 
+Read:
+
+* 
+
+
 ## Week 8 -- Spanish Case Paper (Oct. 13) 
+
+Read:
+
+* 
+
 
 ## Week 9 -- Colonial Contexts (Oct. 20)  
 
+Read:
+
+* 
+
+
 ## Week 10 -- Extirpation vs Inquisition (Oct. 27)
+
+Read:
+
+* 
+
 
 ## Week 11 -- Gender and Sexuality II (Nov. 3)  
 
@@ -74,9 +108,24 @@ three represented!?):
 
 ## Week 12 -- Censorship (Nov. 10)  
 
+Read:
+
+* 
+
+
 ## Week 13 -- A Modern Institution?  (Nov. 17) 
 
+Read:
+
+* 
+
+
 ## Week 14 -- Mexican Case Paper (Nov. 24)
+
+Read:
+
+* 
+
 
 
 
