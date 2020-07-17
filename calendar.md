@@ -1,5 +1,5 @@
 ---
-layout: column
+layout: default
 title: calendar
 ---
 
