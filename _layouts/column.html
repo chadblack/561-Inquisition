@@ -20,11 +20,15 @@
 
     <div id="wrapper">
         {% include header.html %}
-<div style="float:left">
-{:toc}
-</div>
-<article style="float:right">
+<article>
+
+<div style="float:right">
 {{ content }}
+</div>
+<div style="float:left">
+{% include toc.html %}
+</div>
+
 </article>
 {% include footer.html %}
 </div>

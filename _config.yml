@@ -1,9 +1,11 @@
 title: HIST 561 (F2020)
-permaking: pretty
+permalink: pretty
 baseurl: "/561-Inquisition"
 url: "https://chadblack.github.io"
 markdown: kramdown
 plugins:
   - jekyll-feed
+kramdown:
+  parse_block_html: true
 
 
