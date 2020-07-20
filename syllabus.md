@@ -39,6 +39,49 @@ and its legacies for the modern world.
 
 ## readings
 
+Required Books:
+
+One of the following three:
+
+* Henry Kamen, *The Spanish Inquisition: A Historical Revision* (Yale, 1998).  
+* Joseph Perez, *The Spanish Inquisition* (Yale, 2005).
+* Helen Rawlings, *The Spanish Inquisition* (Blackwell, 2006).
+
+And then the rest...
+
+* Miriam Bodian, *Dying in the Law of Moses: Crypto-Jewish Martyrdom in the
+  Iberian Wold*. Indiana Univ. Press, 2007.
+
+* Silvia Federici, *Calaban and the Witch: Women, the Body and Primitive
+  Accumulation*. Audonomedia, 2004.
+
+* Richard Kagan, *Lucrecia's Dreams: Politics and Prophecy in Sixteenth-Century
+  Spain*. University of California Press, 1995.
+
+* María Elena Martinez, *Genealogical Fictions: Limpieza de Sangre, Religion,
+  and Gender in Colonial Mexico*. Stanford Univ. Press, 2008.
+
+* Kenneth Mills, *Idolatry and its Enemies: Colonial Andean Religion and
+  Extirpation, 1640-1750*. Princeton Univ. Press, 1997.
+
+* William Monter, *Frontiers of Heresy: The Spanish INquisition form the Basque
+  Lands to Sicily*. Cambridge Univ. Press, 1990.
+
+* Martin Nesvig, *Promiscuous Power: An Unorthodox History of New Spain*. Univ.
+  of Texas Press, 2018.
+
+* Irene Silverblatt, *Modern Inquisitions: Peru and the Colonial Origins of the
+  Civilized World*. Duke Univ. Press, 2004.
+
+* Gretchen D. Starr-LeBeau, *In the Shadow of the Virgin: Inquisitors, Friars,
+  and **Conversos** in Guadalupe, Spain*. Princeton University Press, 2003.
+
+* Zeb Tortorici, *Sins Against Nature: Sex & Archives in Colonial New Spain*
+  (Duke: 2018)
+
+
+
+
 ## policies
 
 ![](https://chadblack.net/511S2012/media/images/disability.png)Qualified
