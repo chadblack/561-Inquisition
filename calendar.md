@@ -105,15 +105,25 @@ and persecution of witches and witchcraft as a form of primitive accumulation.
 
 Read:
 
-* 
+* Silvia Federici, *Calaban and the Witch: Women, the Body and Primitive
+  Accumulation*. Audonomedia, 2004.
 
 
 ## Gender and Sexuality I (Oct. 6) 
 
+The Spanish Inquisition had differing effects on men and women. Women's control
+over and proximity to food, a significant supposed marker of religious
+identity, placed them at risk of suspicion. But also, the potential heretical
+spirituality of women outside of or weakly underneath priestly control
+problematized their religious commitments beyond questions of limpieza de
+sangre. This week's readings include a short book on the political implications
+of ecstatic dreams, as well as a series of essays on women in Iberia under the
+Inquisition.
+
 Read:
 
 * Mary Giles, ed. *Women in the Inquisition: Spain and the New World*. JHU
-  Press, 1999. Chapters 1-10. 
+  Press, 1999. Selections. 
 
 * Richard Kagan, *Lucrecia's Dreams: Politics and Prophecy in Sixteenth-Century
   Spain*. University of California Press, 1995.
@@ -124,7 +134,13 @@ Read:
 This week we will discuss your papers.
 
 
-## Colonial Contexts (Oct. 20)  
+## Colonial Contexts I (Oct. 20)  
+
+How did colonial society make problematic the operating categories of the
+Inquisition? What did limpieza de sangre, piety, and institutional authority
+mean in the context of the Viceroyalties of the Americas? Where did the
+Inquisition fit in the institutional organization of structures of sovereignty
+and control under early modern empire?
 
 Read:
 
@@ -134,10 +150,14 @@ Read:
 * J.L Phelan, “Authority and Flexibility in the Spanish Imperial Bureaucracy”
   *Administrative Science Quarterly*, 5.1 (Jun., 1960), pp. 47-65.
 
-* 
-
 
 ## Extirpation vs Inquisition (Oct. 27)
+
+Early on, the Crown ruled to exclude indigenous communities from the
+jurisdiction of the Inquisition. Of course, this did not mean that native
+religious beliefs and practices were left unattended. How did extirpation of
+native practices relate to the process, procedure, and ideology of the
+inquisitor? 
 
 Read:
 
@@ -150,30 +170,51 @@ Read:
 
 ## Gender and Sexuality II (Nov. 3)  
 
+As an extension of the Castilian Inquisition (as opposed to in Aragon and
+Valencia), the Holy Office in the Americas did not have jurisdiction over
+unnatural sex, unless it involved sacrilege. This week's readings put clerical
+and lay sexuality into context with one another in Mexico and Cartagena.
+
+
+Read:  
+
 * Zeb Tortorici, *Sins Against Nature: Sex & Archives in Colonial New Spain*
   (Duke: 2018)
 
-* Giles, ed. *Women in the Inquisition*, Chapters 11-14.
+* Nicole von Germeten, "Archival Narratives of Clerical Sodomy and Suicide from
+  Eighteenth-Century Cartagena"
 
-## Censorship (Nov. 10)  
+* Nora Jaffary, "Sacred Defiance and Sexual Desecration"
+
+## What if institutions aren't what they claim? (Nov. 10)  
+
+Dependence on institutional sources runs the risk of accepting the
+self-proclaimed legitimacy of those sources as normative. Martin Nesvig does
+not do that.
 
 Read:
 
-* 
+* * Martin Nesvig, *Promiscuous Power: An Unorthodox History of New Spain*. Univ.
+  of Texas Press, 2018.
 
 
 ## A Modern Institution?  (Nov. 17) 
 
+In the end, what role did the Inquisition as an institution play in the
+emergence of modernity? Are analogues in the current day of its methods and
+truths indicative of a formative, or even modern institution? Or does the
+context of the Inquisition's activity within the juridical and jurisdictional
+specificities of early modern Spanish Empire restrict it's import?
+
 Read:
 
-* 
+* Irene Silverblatt, *Modern Inquisitions: Peru and the Colonial Origins of the
+  Civilized World*. Duke Univ. Press, 2004.
 
 
 ## Mexican Case Paper (Nov. 24)
 
-Read:
-
-* 
+One last discussion, of your own work. And then...
 
 **That's a wrap!!**
 
