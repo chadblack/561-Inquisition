@@ -52,8 +52,14 @@ And then the rest...
 * Miriam Bodian, *Dying in the Law of Moses: Crypto-Jewish Martyrdom in the
   Iberian Wold*. Indiana Univ. Press, 2007.
 
+* John Chuchiak, *The Inquisition in New Spain, 1536-1820: A Documentary
+History*. JHUP, 2012.
+
 * Silvia Federici, *Calaban and the Witch: Women, the Body and Primitive
   Accumulation*. Audonomedia, 2004.
+
+* Lu Ann Homza, *The Spanish Inquisiton, 1478-1614: An Anthology of Sources*.
+Hackett, 2006.
 
 * Richard Kagan, *Lucrecia's Dreams: Politics and Prophecy in Sixteenth-Century
   Spain*. University of California Press, 1995.
